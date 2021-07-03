@@ -1,4 +1,4 @@
-let data=[
+let elp82data=[
 //MAIN PROBLEM. LONGITUDE(SINE)
 [
 [[  0,  0,  0,  2,],[     -411.60287,      168.48,   -18433.81,     -121.62,        0.40,       -0.18,        0.00]],
